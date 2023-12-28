@@ -74,4 +74,4 @@ function speeker() {
   }
 }
 
-module.exports = { SpeekerDevices, startSpeeker, speeker,ai };
+module.exports = { SpeekerDevices, startSpeeker, speeker, ai };

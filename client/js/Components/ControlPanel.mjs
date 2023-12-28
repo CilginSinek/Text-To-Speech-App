@@ -21,7 +21,7 @@ const ControlPanel = {
 
     const changeMiceStatus = (e) => {
       miceStatus.value = e;
-    }
+    };
 
     return {
       isModule,

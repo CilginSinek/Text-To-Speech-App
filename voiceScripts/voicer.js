@@ -98,4 +98,4 @@ function deleteOldFiles() {
   }
 }
 
-module.exports = {voiceWithGoogle,voiceWithOutGoogle}
+module.exports = { voiceWithGoogle, voiceWithOutGoogle };
